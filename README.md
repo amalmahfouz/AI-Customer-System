@@ -51,7 +51,6 @@ AI Customer System/
 
 2. Installation
 Install the required dependencies:
-```bash
 pip install streamlit openai python-dotenv
 
 3. Environment Configuration
